@@ -1,0 +1,27 @@
+#content{
+	padding-top: 30%;
+}
+#content1{
+	padding-top: 30%;
+	padding-right: 40%;
+}
+h1{
+	color: green;
+	font-family: Anton;
+}
+
+hr{
+	width: 500px;
+	text-align: left;
+	margin-left: 0;
+}
+.dropdown-menu{
+	font-family: Abel;
+}
+.navbar-brand{
+	font-family: Piedra;
+	font-size: 30px;
+}
+.rounded-float-right{
+
+}
